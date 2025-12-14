@@ -1,8 +1,8 @@
 student_id,name,department,semester,cgpa,attendance_percent
 1001,Karima,ICE,5,2.49,68
-1002,Karima,CE,2,3.18,62
-1003,Arafat,ICE,4,2.47,98
-1004,Arafat,CE,4,3.43,94
+1002,Karima,CE,2,NaN,62
+1003,Arafat,ICE,4,NaN,98
+1004,Arafat,CE,4,NaN,94
 1005,Sumaiya,CSE,8,3.18,60
 1006,Tanim,ME,6,2.56,73
 1007,Sadia,ICE,2,2.76,82
